@@ -612,7 +612,7 @@ a {
 }
 
 .collapsible--expanded .collapsible__content {
-  max-height: 100vh;
+  max-height: 100%;
   opacity: 1;
 }
 
